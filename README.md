@@ -27,3 +27,17 @@ This project analyzes Zudio sales data using Python to identify revenue trends, 
 - Dataset.csv
 - README.md
 - Visualizations
+
+** Dashboards
+
+## Product Category Profitability Dashboard
+![Product Category Profitability Dashboard](Product Category Profitability Problem Dashboard.png)
+
+## Sales Trend & Seasonality Analysis Dashboard
+![Sales Trend & Seasonality Analysis Dashboard](Sales Trend & Seasonality Analysis Dashboard.png)
+
+## Store Operations Efficiency Dashboard
+![Store Operations Efficiency Dashboard](Store Operations Efficiency Problem Dashboard.png)
+
+## Store Performance Optimization Dashboard
+![Store Performance Optimization Dashboard](Store Performance Optimization Dashboard.png)
